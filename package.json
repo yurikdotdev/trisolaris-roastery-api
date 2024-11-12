@@ -8,6 +8,7 @@
     "format": "prettier --write 'src/**/*.{js,jsx,ts,tsx,css,html}'"
   },
   "dependencies": {
+    "@hono/zod-openapi": "^0.17.0",
     "@neondatabase/serverless": "^0.10.3",
     "dotenv": "^16.4.5",
     "drizzle-orm": "^0.36.1",
